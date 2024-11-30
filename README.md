@@ -1,36 +1,55 @@
-Looking for an expert Mobile App Developer ? Let's cooperate! 
+If you have the courage, motivation and willing to give what it takes to join a startup in it's first steps of software development, then this is for you!
 
-🚀   🔥 I am a skilled expert IOS and Android developer with 7 years of experience only in Mobile App and 10+ years of experience in programming. I have a list of successful completed projects. More than 35 completed mobile apps in Flutter. More than 40 Swift projects! 
-🔥   My technology stack for Mobile projects: 
+We are looking for a Native Mobile Apps Engineer for Android and in a nearby future another engineer for iOS.
 
-🧑‍💻 Mobile development: Swift | Kotlin | Objective-C | React Native | Flutter | Java 
-
-🧑‍💻 Back-end: PHP (Laravel, Symfony, CakePHP) | NodeJS (Express) | Python (Django) | Java, Spring | Ruby | API servers 
-
-🧑‍💻 UI/UX design, UX audit, logo, and branding 
-
-🧑‍💻 QA: manual functional, tests automation Industries we work with and have vast expertise: 
-
-🔸 FinTech 
-
-🔸 Financial services; 
-
-🔸 Travel&Hospitality; 
-
-🔸 Real estate; 
-
-🔸 Restaurant business; 
-
-🔸 Bookings; 
-
-🔸 Taxi & Delivery; 
-
-🔸 Fitness and sports; 
-
-🔸 E-commerce; 
-
-I use React Native and Flutter to create most of our mobile applications. React Native is a modern tool from Facebook that lets you create native apps for both iOS and Android using one codebase. Flutter is a technology from Google for the same thing. Using such platforms reduces development and maintenance costs while allowing you to use any native functionalities — cameras, GPS, and anything else available for native apps. If needed we can also write in Java, Swift, or Kotlin for specific things. 
-
-What I can do to make your project successful: 
-
-🎯 I conduct a thorough Lean Inception or Project Discovery to validate your business idea early on 🎯 I analyze flowcharts, design or make code review and provide you with a detailed development plan together 🎯 You have budget limitations and need efficient and cost-saving development 🎯 You look for custom solutions to address your particular business objectives 🎯 You hesitate which of the mobile solutions (native or cross-platform) will work better for your project   
+Skills for Android
+Native Android Developer
+J2EE or C++ 
+Android Studio
+Javascript
+Auto-testing
+jQuery
+Backbone
+CoffeeScript
+Ionic
+Passport or JWT
+Mobile Payment Gateways (Stripe, Paypal, Conekta)
+Mobile Analytics, e.g. Mixpanel
+Titanium
+Gulp, Mocha
+Experience
+Min 2 years developing native apps for Android
+At least one App published on Google Play
+Great App UI performance
+Great App User Experience
+HTTP REST API or WebSockets
+Skills for iOS
+Objective-C
+Xcode
+Swift
+Key Responsibilities
+Head of Front-end engineering.
+Start, grow & manage an awesome front-end team.
+Contribute to product vision.
+UI & UX for Android.
+Establish deadlines and meet goals.
+Drive conversations with Enterprise Architects and co-founders.
+Use influence and adaptive communication strategies.
+Troubleshoot platform deployment issues and demonstrate ability to drive to successful resolution.
+Review and correcting project/product direction, approach and key artifacts to keep projects on track and solutions extendable and maintainable going forward.
+Identification and pro-active management of risk areas and commitment to seeing an issue through to complete resolution.
+Build relationships with teams, internal and external, and contributing to broader goals and growth.
+Core Competencies
+Auto-motivation
+Auto-critic
+Work independently and be a self-starter
+Work from remote
+Quality obsessive
+Persevering
+Honest
+Entrepreneur
+Organized
+Willing to suffer
+Tolerant
+Meticulous
+Strong communications skills
