@@ -1,49 +1,36 @@
-💫I help high ticket business owners and agency owners build AI Agents and AI Automated Solutions/Integrations to streamline their operational processess and scale their business to multiple figures a month, without the hassle of technical work or the cost-to-efficiency anxiety.💫
+Looking for an expert Mobile App Developer ? Let's cooperate! 
 
-Working with me, you will
+🚀   🔥 I am a skilled expert IOS and Android developer with 7 years of experience only in Mobile App and 10+ years of experience in programming. I have a list of successful completed projects. More than 35 completed mobile apps in Flutter. More than 40 Swift projects! 
+🔥   My technology stack for Mobile projects: 
 
-🔹Stop struggling with AI - I handle the AI Strategy, Integration Plan, Model Selection and Cost Efficient Solution, and Deployment Strategy
+🧑‍💻 Mobile development: Swift | Kotlin | Objective-C | React Native | Flutter | Java 
 
-🔹 Anticipate challenges and pre-handle them with my insights
+🧑‍💻 Back-end: PHP (Laravel, Symfony, CakePHP) | NodeJS (Express) | Python (Django) | Java, Spring | Ruby | API servers 
 
-🔹 Receive turnkey, enterprise-grade, futureproofed AI solutions that optimize operations
+🧑‍💻 UI/UX design, UX audit, logo, and branding 
 
-🔹 Improving your KPIs : By automating and including AI in your business, you will improve your KPIs, therefore more $$$ , proven through past clients.
+🧑‍💻 QA: manual functional, tests automation Industries we work with and have vast expertise: 
 
+🔸 FinTech 
 
-🔺AI Technology
+🔸 Financial services; 
 
-🔹ChatGPT, GPT-3,GPT-4, GPT-4 Turbo, OpenAI, BERT, BARD, HuggingFace, IBM Watson Assistant
+🔸 Travel&Hospitality; 
 
-🔹Transformers, T5, XLNet, RoBERTa, ALBERT, DistilBERT, OpenAI Codex, UniLM
-Botpress, Flow.AI, Langchain,LLaMA
+🔸 Real estate; 
 
-🔹GANs, StyleGAN, Pix2Pix, CycleGAN, DeepDream, DALL-E, CLIP
+🔸 Restaurant business; 
 
-🔹TensorFlow, PyTorch, Keras, OpenCV, Detectron, YOLO, Tesseract (OCR - Optical Character Recognition), Scikit-image, Caffe, Caffe2, Hugging Face Transformers
+🔸 Bookings; 
 
-🔹WaveNet, Tacotron, DeepVoice, Google Duplex, Microsoft DeepSpeech, Mozilla DeepSpeech, Google Text-to-Speech API, Microsoft Azure Speech SDK
+🔸 Taxi & Delivery; 
 
-🔹Microsoft Bot Framework, Rasa, Wit.ai, Dialogflow, Snips, Deepgram, Mozilla DeepSpeech, SpeechRecognition, CMU Sphinx, Jasper, SAP Conversational AI, Converse.AI, librosa, torchaudio, SpeechBrain, Kaldi
+🔸 Fitness and sports; 
 
-🔺Web Technology
+🔸 E-commerce; 
 
-🔹ReactJS/Vue.jS/NodeJS/NextJS/NuxtJS/Express/Python/Django
+I use React Native and Flutter to create most of our mobile applications. React Native is a modern tool from Facebook that lets you create native apps for both iOS and Android using one codebase. Flutter is a technology from Google for the same thing. Using such platforms reduces development and maintenance costs while allowing you to use any native functionalities — cameras, GPS, and anything else available for native apps. If needed we can also write in Java, Swift, or Kotlin for specific things. 
 
-🔹MongoDB/MySql/PostgreSQL
+What I can do to make your project successful: 
 
-🔹HTML5/CSS3/AngularJs/jQuery/Bootstrap CSS/Tailwind CSS 
-
-🔹Material UI
-
-🔹Angular 11+/.NET Core/MS SQL/Azure
-
-🔺Mobile Technology
-
-🔹  Native iOS, Swift, Swift UI.
-
-🔹  Native Android, Kotlin Flutter, App Design
-
-If you're looking for a reliable and experienced mobile developer who can deliver high-quality work on time and on budget, look no further. 
-
-Let's discuss your project and see how I can help bring your vision to live!
+🎯 I conduct a thorough Lean Inception or Project Discovery to validate your business idea early on 🎯 I analyze flowcharts, design or make code review and provide you with a detailed development plan together 🎯 You have budget limitations and need efficient and cost-saving development 🎯 You look for custom solutions to address your particular business objectives 🎯 You hesitate which of the mobile solutions (native or cross-platform) will work better for your project   
