@@ -4,8 +4,7 @@
 
 <img align="right" alt="GIF" src="main.gif" width="400" height="300" />
 
-- 🚀 I’m a Mobile Developer.
-- 💪 I have a rich background in web development.
+- 🚀 I’m a Web/Mobile Developer.
 - 🌱 I’m currently diving into AI & ML.
 - 📢 Love to learn & share with the community.
 - 💬 Ask me about anything, I'll be happy to help.
