@@ -10,16 +10,6 @@
 - 💬 Ask me about anything, I'll be happy to help.
 - 🤝 Love to make new connections.
 
-### 💘 Highlights 💘
-
-<p align="left">
-  <img src="artificial-intelligence.gif" alt="Artificial Intelligence" title="Artificial Intelligence" width="75" height="75" />
-  <img src="leadership.gif" alt="Leadership" title="Leadership" width="75" height="75"/>
-</p>
-<p text-align="center" width="100%">
-  AI FullStack Developer
-</p>
-
 # <img src="working.gif" width="45" /> My Stack
 
 <p align="center">
