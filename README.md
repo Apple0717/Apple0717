@@ -19,6 +19,7 @@
 <p text-align="center" width="100%">
   AI FullStack Developer
 </p>
+
 # <img src="working.gif" width="45" /> My Stack
 
 <p align="center">
